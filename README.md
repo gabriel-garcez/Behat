@@ -1,6 +1,6 @@
 # Behat
 
-This is a BDD project in PHP using Behat and Guzzle.
+This is a BDD project in PHP using Behat and Guzzle and Gherkin.
 
 # Requirements:
 

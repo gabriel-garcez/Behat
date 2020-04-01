@@ -1,3 +1,5 @@
+# Behat
+
 This is a BDD project in PHP using Behat and Guzzle.
 
 # Requirements:
